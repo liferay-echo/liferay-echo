@@ -18,7 +18,7 @@ knowledge:
 - Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6],
   [@pavel-savinov][7].
 - Frontend: [@p2kmgcl][8], [@sandrodw3][9], [@veroglez][10], [@victorg1991][11].
-- QAs: [@david-gutierrez-mesa][12], [@liulukiwi][13], [@tim-cao][14].
+- QA: [@david-gutierrez-mesa][12], [@liulukiwi][13], [@tim-cao][14].
 
 [1]: https://github.com/liferay-echo/liferay-portal
 [2]: https://airtable.com/shrQ35YwWwHLRvhZ9/tbl66zH9L32CxqoNu
