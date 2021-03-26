@@ -15,8 +15,7 @@ labels (for example, if the PP needs some frontend review we add the
 
 The members of the team that manage the repo, are, separated by area of
 knowledge:
-- Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6],
-  [@pavel-savinov][7].
+- Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6]
 - Frontend: [@p2kmgcl][8], [@sandrodw3][9], [@veroglez][10], [@victorg1991][11].
 - QA: [@david-gutierrez-mesa][12], [@liulukiwi][13], [@tim-cao][14].
 
@@ -26,7 +25,6 @@ knowledge:
 [4]: https://github.com/ealonso
 [5]: https://github.com/jkappler
 [6]: https://github.com/ruben-pulido
-[7]: https://github.com/pavel-savinov
 [8]: https://github.com/p2kmgcl
 [9]: https://github.com/sandrodw3
 [10]: https://github.com/veroglez
