@@ -9,7 +9,7 @@ forward it as soon as possible. So taking some time adding information about the
 changes you made in the PR or linking the associated JIRA ticket is advised.
 
 Once the pull request has been sent, we track the progress of it using GitHub
-labels (for example, if the PP needs some frontend review we add the
+labels (for example, if the PR needs some frontend review we add the
 "Frontend Review Needed"). Here is a list of
 [all the different labels that we use][3].
 
