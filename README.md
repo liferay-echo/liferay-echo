@@ -15,7 +15,7 @@ labels (for example, if the PR needs some frontend review we add the
 
 The members of the team that manage the repo, are, separated by area of
 knowledge:
-- Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6], [@lfbesada][7]
+- Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6], [@lfbesada][7].
 - Frontend: [@p2kmgcl][8], [@sandrodw3][9], [@veroglez][10], [@victorg1991][11].
 - QA: [@david-gutierrez-mesa][12], [@liulukiwi][13], [@tim-cao][14], [@ThalitaCeli][15], [@ozysouza][16].
 
