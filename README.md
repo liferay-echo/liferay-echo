@@ -5,7 +5,7 @@ send it to the [liferay-echo/liferay-portal repository][1] to be reviewed. In ca
 you are not sure if the component belongs to us, please [check the Echo components document][2].
 
 The more information you provide about the pull request, the better it will be for us to review and
-forward it as soon as possible. Pleaase, take the time to ensure it adheres to the [Echo Pull Request Template](https://gist.github.com/liferay-echo/5a4455285ff1800f9da146816d85e67d#file-pull-request-template-md).
+forward it as soon as possible. Please, take the time to ensure it adheres to the [Echo Pull Request Template](https://gist.github.com/liferay-echo/5a4455285ff1800f9da146816d85e67d#file-pull-request-template-md).
 
 Once the pull request has been sent, we track the progress of it using GitHub
 labels (for example, if the PR needs some frontend review we add the
