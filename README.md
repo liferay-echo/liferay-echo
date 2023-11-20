@@ -14,9 +14,9 @@ labels (for example, if the PR needs some frontend review we add the
 
 The members of the team that manage the repo, are, separated by area of
 knowledge:
-- Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6], [@lfbesada][7], [@yurenac][18], [@mikellorza][21].
+- Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6], [@lfbesada][7], [@yurenac][18], [@mikellorza][19].
 - Frontend: [@p2kmgcl][8], [@sandrodw3][9], [@veroglez][10], [@victorg1991][11], [@barbaracabrera][16], [@diegohu97][17].
-- QA: [@david-gutierrez-mesa][12], [@liulukiwi][13], [@tim-cao][14], [@alessandromalves][15], [@rafaellajordao][22].
+- QA: [@david-gutierrez-mesa][12], [@liulukiwi][13], [@tim-cao][14], [@alessandromalves][15], [@rafaellajordao][20].
 
 [1]: https://github.com/liferay-echo/liferay-portal
 [2]: https://airtable.com/shrQ35YwWwHLRvhZ9/tbl66zH9L32CxqoNu
