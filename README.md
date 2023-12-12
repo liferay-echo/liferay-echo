@@ -37,9 +37,9 @@ knowledge:
 [16]: https://github.com/DiegoHu97
 [17]: https://github.com/mikellorza
 [18]: https://github.com/rafaellajordao
-[19] https://github.com/jonathanmccann
-[20] https://github.com/balazssk
-[21] https://github.com/javiermoral
-[22] https://github.com/georgel-pop-lr
-[23] https://github.com/joaovictoralvesmartins
-[24] https://github.com/bakayattila
+[19]: https://github.com/jonathanmccann
+[20]: https://github.com/balazssk
+[21]: https://github.com/javiermoral
+[22]: https://github.com/georgel-pop-lr
+[23]: https://github.com/joaovictoralvesmartins
+[24]: https://github.com/bakayattila
