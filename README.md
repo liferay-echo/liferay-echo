@@ -14,9 +14,9 @@ labels (for example, if the PR needs some frontend review we add the
 
 The members of the team that manage the repo, are, separated by area of
 knowledge:
-- Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6], [@lfbesada][7], [@mikellorza][18].
-- Frontend: [@p2kmgcl][8], [@sandrodw3][9], [@veroglez][10], [@victorg1991][11], [@barbaracabrera][16], [@diegohu97][17].
-- QA: [@david-gutierrez-mesa][12], [@liulukiwi][13], [@tim-cao][14], [@alessandromalves][15], [@rafaellajordao][19].
+- Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6], [@lfbesada][7], [@mikellorza][17].
+- Frontend: [@p2kmgcl][8], [@sandrodw3][9], [@veroglez][10], [@victorg1991][11], [@barbaracabrera][15], [@diegohu97][16].
+- QA: [@david-gutierrez-mesa][12], [@liulukiwi][13], [@tim-cao][14], [@rafaellajordao][18].
 
 [1]: https://github.com/liferay-echo/liferay-portal
 [2]: https://airtable.com/shrQ35YwWwHLRvhZ9/tbl66zH9L32CxqoNu
@@ -32,9 +32,8 @@ knowledge:
 [12]: https://github.com/david-gutierrez-mesa
 [13]: https://github.com/liulukiwi
 [14]: https://github.com/tim-cao
-[15]: https://github.com/alessandromalves
-[16]: https://github.com/barbaracabrera
-[17]: https://github.com/DiegoHu97
-[18]: https://github.com/mikellorza
-[19]: https://github.com/rafaellajordao
+[15]: https://github.com/barbaracabrera
+[16]: https://github.com/DiegoHu97
+[17]: https://github.com/mikellorza
+[18]: https://github.com/rafaellajordao
 
