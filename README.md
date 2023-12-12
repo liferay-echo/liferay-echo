@@ -17,7 +17,7 @@ knowledge:
 - Backend: [@ealonso][5], [@jkappler][5], [@ruben-pulido][6], [@lfbesada][7], [@mikellorza][17].
 - Frontend: [@p2kmgcl][8], [@sandrodw3][9], [@veroglez][10], [@victorg1991][11], [@barbaracabrera][15], [@diegohu97][16].
 - QA: [@david-gutierrez-mesa][12], [@liulukiwi][13], [@tim-cao][14], [@rafaellajordao][18].
-- Technical support engineers: [19] jonathanmccann, [20] balazssk, [21] javiermoral, [22] georgel-pop-lr, [23] joaovictoralvesmartins, [24] bakayattila
+- Technical support engineers: [@jonathanmccann][19], [@balazssk][20], [@javiermoral][21], [@georgel-pop-lr][22], [@joaovictoralvesmartins][23], [@bakayattila][24]
 
 [1]: https://github.com/liferay-echo/liferay-portal
 [2]: https://airtable.com/shrQ35YwWwHLRvhZ9/tbl66zH9L32CxqoNu
